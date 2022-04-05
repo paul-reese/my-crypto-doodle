@@ -1,1 +1,1 @@
-Create a GCP Jumpbox for remote access (from iPad), adapted from (http://captainvirtualization.com/tanzu-application-service-part-1-create-jumpbox-in-gcp/)
+Create a GCP Jumpbox for remote access (from iPad), adapted from [Tanzu Application Service – Part 1: Create Jumpbox In GCP](http://captainvirtualization.com/tanzu-application-service-part-1-create-jumpbox-in-gcp/)
